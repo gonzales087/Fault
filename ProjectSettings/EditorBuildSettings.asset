@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenuScene.unity
+    guid: 69bc28afe4f15ed419bb346e3a379e6d
+  - enabled: 1
+    path: Assets/Scenes/MaleLevel/School1.unity
+    guid: 2f71336ffdb11b6438f446890b153bbe
+  - enabled: 1
+    path: Assets/Scenes/MaleLevel/School2.unity
+    guid: d3206abe035c2884184f6408e3c950bd
+  - enabled: 1
+    path: Assets/Scenes/MaleLevel/School3.unity
+    guid: 9a8be54a760369c49959f4b910d59c9a
+  - enabled: 1
+    path: Assets/Scenes/MaleLevel/House1.unity
+    guid: 776ba2113686b754a9312428daca9dbc
+  - enabled: 1
+    path: Assets/Scenes/MaleLevel/House2.unity
+    guid: 20e651b3a6c51e547a78f3838e163e93
+  - enabled: 1
+    path: Assets/Scenes/MaleLevel/House3.unity
+    guid: 7f2b1cf1bd33dd14686c98825c94f009
+  - enabled: 1
+    path: Assets/Scenes/MaleLevel/Mall1.unity
+    guid: 211e7468922c00f49b60fdf6a1d2cd07
+  - enabled: 1
+    path: Assets/Scenes/MaleLevel/Mall2.unity
+    guid: 008e51fa4aaee1e439302694549672e9
+  - enabled: 1
+    path: Assets/Scenes/MaleLevel/Mall3.unity
+    guid: 537d42f23cba4644facda19a5e08ea1c
+  m_configObjects: {}

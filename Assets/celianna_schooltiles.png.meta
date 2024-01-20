@@ -1,0 +1,3028 @@
+fileFormatVersion: 2
+guid: 195153f619424154098cbc58f3afde66
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: celianna_schooltiles_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 850
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c041a813b7fc34d8f2908f66884d63
+      internalID: -1539295366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 819
+        width: 96
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e6ad2c61b2dba46a571465ced194fd
+      internalID: -1607604478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_2
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 850
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa8df68d17c853a4994802bd4db17d75
+      internalID: -454540286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_3
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 844
+        width: 66
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f2e1c76d89526541a4d65da00209d9e
+      internalID: 1257923440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_4
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 846
+        width: 64
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0b19253b68944479ffcccdb8679411
+      internalID: 867809196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_5
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 850
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00694b994e5aa634584a8f0d1e4e908b
+      internalID: -1388680516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_6
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 786
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21002cda7e0b6be4b87ff30e77cc133f
+      internalID: 1337709389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_7
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 802
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6808cd0e038bfd4ab18a05294de44a7
+      internalID: -1835236834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_8
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 802
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f2ab45ae896b04fa89196105681bef
+      internalID: 844038022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_9
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 802
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f68b125e44dbc3b43a4249579ebca293
+      internalID: 439652049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_10
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 802
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 061cf5e8e3ec0e34aa1021925cd6a722
+      internalID: 1875849785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_11
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 802
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 276d5345e3266d643a0c9b153d30aeda
+      internalID: -1770229432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_12
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 802
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b0772e92069e9643a73e65386566a9c
+      internalID: -491485635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_13
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 767
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62220351d8368e0408c34a0213b7cd0d
+      internalID: 1520884202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_14
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 767
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0988977689396de44a4ac53939f912dc
+      internalID: -1539604337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_15
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 735
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5860be534e1f6ff419d87cc13ff6b0fc
+      internalID: 1147601219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_16
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 735
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac57530dcdd68414aba0cbf9e6bec5f0
+      internalID: -274784542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_17
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 779
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a009107215e101546ba4d949be548609
+      internalID: 1964887014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_18
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 764
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a36f2542f2fbd4eb1614f51332fc0f
+      internalID: -1812586256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_19
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 722
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0b7db01d577d74bb13923b8d19c382
+      internalID: 1068615450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_20
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 739
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfadfa79b2ecbf74bb4e6af491f63bb7
+      internalID: -399437788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_21
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 739
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2b349f8818c144c960de845a209806
+      internalID: 812756928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_22
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 739
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08378f9fe291be7459b7fc9ac9a9b97a
+      internalID: -474365061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_23
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 750
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86fb80e5ac236be44861a07c110f8a06
+      internalID: 875785111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_24
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 719
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a58c44fe7cc44a499e59474bd4b44d0
+      internalID: -1262961070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_25
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 716
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7bb42bbb50f65e4c8a1c3ef625bb590
+      internalID: 125492280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_26
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 719
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f020d198b26f6c4a979d9cba6e0292e
+      internalID: 821346900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_27
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 719
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a45b964ca2b5334fbb957630699458d
+      internalID: 615196196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_28
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 734
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a5b9a797f0f5b45b75dba2fff9c545
+      internalID: 1903370734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_29
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 626
+        width: 33
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 745c0cfefa2894b40b43f105f3656775
+      internalID: -294731845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_30
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 698
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf54fceb89b2737458d9659e57d535c4
+      internalID: -992936941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_31
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 712
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a91fe2647e2de143a8872ad170b7f1f
+      internalID: -1505406597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_32
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 710
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03303c3c5913e074ab34f81e86d7e175
+      internalID: -2124239561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_33
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 711
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58de37502a8533d4dab00b649d66e05e
+      internalID: 1735387515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_34
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 711
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b293c29c6c20b204c92ede005044d34c
+      internalID: -891184592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_35
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 713
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a484a7d994a6f4b946f2d2520d109a
+      internalID: 732238968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_36
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 708
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd4315fc446bf546b4649e712df54c2
+      internalID: -72565336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_37
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 694
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead5e7c37615b3b4ca78a01868238756
+      internalID: 1982137499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_38
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 708
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5034271c2948bda469a26b88f5e0d6f3
+      internalID: 432756082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_39
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 679
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b14d810b6ab1c544ca6d40ad4de99f9f
+      internalID: 1488006689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_40
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 658
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb35a374ddf47b145939b822153504e6
+      internalID: 2140317302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_41
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 673
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd83b6540382f20428ebaf9cf9fc1081
+      internalID: 2146624222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_42
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 680
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb247866575e394eb9d747c43d08c16
+      internalID: -1878087145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_43
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 680
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2cdc35190e2a844d93ba14347f1281f
+      internalID: 929377538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_44
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 688
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 036903360f61d1e4f87ec2c86063dd24
+      internalID: -2051911611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_45
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 689
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a9fb586c8dc1c1408ef77b831b5f791
+      internalID: 213175130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_46
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 689
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd2d328a56a7b5458bf29333f039ea8
+      internalID: 534276815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_47
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 626
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a073a45a84b31a24a9800f7c702b9b53
+      internalID: -1731619073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_48
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 627
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065583d5ab4f6774fb918b76f946fb12
+      internalID: 1158800982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_49
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 627
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797bffe7bc4c741488bb1fd7210f16ce
+      internalID: -1012048166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_50
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 627
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e76ac0fd918b91d46a43c0678146ef1d
+      internalID: 970901705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_51
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 624
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb2588dec1900334da180e2699172025
+      internalID: 411326319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_52
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 568
+        width: 64
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e651f656abf7c394f987269e4573539d
+      internalID: -452686957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_53
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 562
+        width: 64
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f8efb1f01e20242a440bc2ce50fde5
+      internalID: 1514389625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_54
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 560
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b668a45db8e5b574fb928713c0e24d9e
+      internalID: 122379299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_55
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 563
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03bdb95c7cedf8341a716f386c105e54
+      internalID: 1519509668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_56
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 563
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ab2d32efbe7374c8ddb9c756a43b2d
+      internalID: -1395395195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_57
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 520
+        width: 65
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e41a0ed7a95bf4198d84e6f6ffbf99
+      internalID: 1654663233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_58
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 565
+        width: 66
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e3bffff1ee19f4392206cb3a895d87
+      internalID: -732185959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_59
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 572
+        width: 66
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb2c2bc75476011419b7eb6f32107c4e
+      internalID: -689641216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 560
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca91f60b651687244b145252aa0623ed
+      internalID: 2126279412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_61
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 520
+        width: 66
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2449d68a82b719d4d9927bfa7d51f689
+      internalID: -655700164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_62
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 493
+        width: 88
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1174cfa552940734b9926d96f7cb6bdd
+      internalID: -575925672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_63
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 509
+        width: 64
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35563a91d8b4ad245adca075eb3faffc
+      internalID: 1544386389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_64
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 513
+        width: 64
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67eac68109712184b81dc1aa2999da48
+      internalID: -458375829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_65
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 522
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 529fdc1b82cf65f46aa693efeb31035e
+      internalID: -800775351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_66
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 522
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e939203c0f4402b4c99b99091f265477
+      internalID: 506497163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_67
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 522
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca6e053e8c4ef747a1c5b756006838f
+      internalID: -2076050490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_68
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 465
+        width: 64
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 738bbab2db5667b46bff125c7d1f32dd
+      internalID: 836188671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_69
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 465
+        width: 64
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff703f5c0985894ea232c733157f5ec
+      internalID: 890477610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_70
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 471
+        width: 64
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 232132de50521c243a9c6227c39a3b1f
+      internalID: 1786110940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_71
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 471
+        width: 64
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b6a558bb0d89584295ce42cdb43b4e6
+      internalID: 1375209902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_72
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 471
+        width: 64
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e6bce9e122c3584392c1429072804c1
+      internalID: -1713558211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_73
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 471
+        width: 64
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8edcc722214c70b43af50ee8d51b8bbf
+      internalID: -1460193760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_74
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 389
+        width: 64
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96380120337006848a107620e23cb287
+      internalID: 966814560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_75
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 389
+        width: 64
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 332ee6c596e09e24388309068d98ecc6
+      internalID: -1769268999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_76
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 389
+        width: 32
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 924ce1000bb0b0e4ea0632b2d2f014a6
+      internalID: 203845934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_77
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 389
+        width: 32
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ef33c97ff5fa345902d0103387be58
+      internalID: 1743042938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_78
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 388
+        width: 28
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b1b1e1c5c5f49048a2091965512ac38
+      internalID: -508122051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_79
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 388
+        width: 28
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ba77f482b4d154896bbfd32ff6a9d8
+      internalID: -398298657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_80
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 388
+        width: 28
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e35d233edb5ce439f843ce4068abeb
+      internalID: 1803339931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_81
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 427
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c226a7db16aefc34281b71f14b4121e1
+      internalID: -246458805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_82
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 427
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 139a5c17b1542a94eb494151e7e6cbc1
+      internalID: 1962728366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_83
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 212
+        width: 64
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d879b133e934345b752a3ee7ddf9cd
+      internalID: -2051464170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_84
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 308
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7aeec4565e2dea4b86423abda45a723
+      internalID: 963766334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_85
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 308
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c24a7cb6b4ea34e80d154b01d33312
+      internalID: 616853186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_86
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 344
+        width: 61
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e23aa3f4b5b1e424c9d2e58cee5fe736
+      internalID: 1001780575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_87
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 244
+        width: 48
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e00ca4bc28c855746a364c5d0a069753
+      internalID: 651076026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_88
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 389
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45dcc24db9f5bf047ba4b57ed8795ab3
+      internalID: 1635316121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_89
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 340
+        width: 66
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 284e1d2e93c621442b58dadb1e0a4090
+      internalID: 1532862864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_90
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 362
+        width: 90
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c373b4f9c9411574f9d650c6243bc419
+      internalID: -1533658047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_91
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 371
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a769e7842466e8a49a67e1a28a5885f9
+      internalID: -1274277011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_92
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 308
+        width: 61
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee40222a946f3cd4f85257193e289b15
+      internalID: 1098578639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_93
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 245
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ec37c2a48c47a4a9ab75bdaa24ad3e
+      internalID: 2135468975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_94
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 244
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f54f025aef6764ab154dd3a06909b9
+      internalID: 391651695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_95
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 280
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b512abfbca60454e91a98328ef61281
+      internalID: 2065493707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_96
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 292
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08139125c7981ed4d872d9e81e38d512
+      internalID: -833878996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_97
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 292
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f95b6db6c1ccb9d408e46360c84a3777
+      internalID: 1220388203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_98
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 290
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60dd5921e0e26fa40a9e60ef17ca471c
+      internalID: 1307587857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_99
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 271
+        width: 61
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e4f7e75ea0431f45946a5ec07696e9c
+      internalID: 1654636687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_100
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 262
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc718dc6ed74fab4e8f2bc169c45e32f
+      internalID: -2019984947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_101
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 284
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fa6aec3d57ec2d4ab2940908b28cc6d
+      internalID: -261171093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_102
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 281
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196e3878d678d584c86fe5bd8149c065
+      internalID: 1750008660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_103
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 239
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 359b170bed31f2940b3c6771d67cbfbd
+      internalID: 373941452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_104
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 266
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4659687e21fb9ae4db89d1c6dbf7a6d2
+      internalID: 146853738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_105
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 270
+        width: 4
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa50ee43491f07419ca4e49a3d20373
+      internalID: 1972478229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_106
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 183
+        width: 48
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7daafc8b6795e543be93b2062383b30
+      internalID: -1219895026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_107
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 184
+        width: 25
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 024d7fd4a7a8996409646062cbbc63a7
+      internalID: 1854782246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_108
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 233
+        width: 61
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e6740e332ad3a448297afe577d68d9
+      internalID: 1068863173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_109
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 98
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5f530f85eed9045926cdcf5694ef6a
+      internalID: -1170990442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_110
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 184
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01941bb8fe2920e4799b643a54d5f0bb
+      internalID: 765836689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_111
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 185
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc7b0bdaf44a874c949b6104132ef21
+      internalID: -9763899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_112
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 192
+        width: 61
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17434ce44a5a7434ca645178b41a9bbf
+      internalID: 1867092766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_113
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 174
+        width: 48
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff27f2562008ac54c94e929cb41d6ced
+      internalID: -1645519642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_114
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 150
+        width: 64
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d4478d7fcd3124f85b87ca4da5727a
+      internalID: -90141590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_115
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 150
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63b71a393dc297442917d2f45e020d30
+      internalID: 1602467514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_116
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 150
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f058ddbd3b09f9e459ae1a1c4d9d42ed
+      internalID: -1391909835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_117
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 152
+        width: 61
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5746f68da16ec7244a320b2f4298bc12
+      internalID: 1540041323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_118
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 54
+        width: 48
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88328172b2bbb8e448a4370692eb9c94
+      internalID: -772496338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_119
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 98
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c1670666f4e744faa771087f0527b5
+      internalID: 2047678033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_120
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 85
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c8eb8c4d467c446bf56c80ae224838
+      internalID: 1388177828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_121
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 126
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51c710ffe8e77c149a39c43c866a9c87
+      internalID: 473314074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_122
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 84
+        width: 48
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e081aaba6c7a5b9439645ef13b0e1b48
+      internalID: 829819892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_123
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 84
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 378e5533bc837104ca2d39eeb88a2bac
+      internalID: 200343755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_124
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 85
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d98833956933754598b0570ea3c67b9
+      internalID: -2088186529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_125
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 12
+        width: 41
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 807a25d2107c6b54786e597c59c37e3e
+      internalID: 232656831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_126
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 12
+        width: 73
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 814440b8d248c84438cafaa79f84a19d
+      internalID: 2053342227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_127
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 12
+        width: 41
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 951d4a466ed7ad84d981316815f4fdfd
+      internalID: -124510333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_128
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 12
+        width: 73
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f002dd5efc192408f64017f3eda572
+      internalID: 1641687636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_129
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 11
+        width: 29
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c3b78d102c88b44d886887a8a315732
+      internalID: -2060420963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_schooltiles_130
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 20
+        width: 20
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 358e3f1d03d130c4fbe5718d1ae948a6
+      internalID: -865619147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      celianna_schooltiles_93: 2135468975
+      celianna_schooltiles_48: 1158800982
+      celianna_schooltiles_96: -833878996
+      celianna_schooltiles_128: 1641687636
+      celianna_schooltiles_97: 1220388203
+      celianna_schooltiles_122: 829819892
+      celianna_schooltiles_2: -454540286
+      celianna_schooltiles_3: 1257923440
+      celianna_schooltiles_77: 1743042938
+      celianna_schooltiles_38: 432756082
+      celianna_schooltiles_27: 615196196
+      celianna_schooltiles_37: 1982137499
+      celianna_schooltiles_55: 1519509668
+      celianna_schooltiles_6: 1337709389
+      celianna_schooltiles_44: -2051911611
+      celianna_schooltiles_10: 1875849785
+      celianna_schooltiles_113: -1645519642
+      celianna_schooltiles_110: 765836689
+      celianna_schooltiles_23: 875785111
+      celianna_schooltiles_70: 1786110940
+      celianna_schooltiles_86: 1001780575
+      celianna_schooltiles_22: -474365061
+      celianna_schooltiles_71: 1375209902
+      celianna_schooltiles_57: 1654663233
+      celianna_schooltiles_72: -1713558211
+      celianna_schooltiles_41: 2146624222
+      celianna_schooltiles_84: 963766334
+      celianna_schooltiles_7: -1835236834
+      celianna_schooltiles_4: 867809196
+      celianna_schooltiles_1: -1607604478
+      celianna_schooltiles_79: -398298657
+      celianna_schooltiles_58: -732185959
+      celianna_schooltiles_30: -992936941
+      celianna_schooltiles_32: -2124239561
+      celianna_schooltiles_20: -399437788
+      celianna_schooltiles_53: 1514389625
+      celianna_schooltiles_29: -294731845
+      celianna_schooltiles_52: -452686957
+      celianna_schooltiles_62: -575925672
+      celianna_schooltiles_13: 1520884202
+      celianna_schooltiles_94: 391651695
+      celianna_schooltiles_123: 200343755
+      celianna_schooltiles_14: -1539604337
+      celianna_schooltiles_80: 1803339931
+      celianna_schooltiles_49: -1012048166
+      celianna_schooltiles_56: -1395395195
+      celianna_schooltiles_109: -1170990442
+      celianna_schooltiles_118: -772496338
+      celianna_schooltiles_8: 844038022
+      celianna_schooltiles_24: -1262961070
+      celianna_schooltiles_117: 1540041323
+      celianna_schooltiles_34: -891184592
+      celianna_schooltiles_91: -1274277011
+      celianna_schooltiles_101: -261171093
+      celianna_schooltiles_16: -274784542
+      celianna_schooltiles_40: 2140317302
+      celianna_schooltiles_75: -1769268999
+      celianna_schooltiles_43: 929377538
+      celianna_schooltiles_17: 1964887014
+      celianna_schooltiles_66: 506497163
+      celianna_schooltiles_50: 970901705
+      celianna_schooltiles_12: -491485635
+      celianna_schooltiles_125: 232656831
+      celianna_schooltiles_51: 411326319
+      celianna_schooltiles_105: 1972478229
+      celianna_schooltiles_127: -124510333
+      celianna_schooltiles_11: -1770229432
+      celianna_schooltiles_108: 1068863173
+      celianna_schooltiles_130: -865619147
+      celianna_schooltiles_61: -655700164
+      celianna_schooltiles_60: 2126279412
+      celianna_schooltiles_100: -2019984947
+      celianna_schooltiles_92: 1098578639
+      celianna_schooltiles_42: -1878087145
+      celianna_schooltiles_25: 125492280
+      celianna_schooltiles_88: 1635316121
+      celianna_schooltiles_107: 1854782246
+      celianna_schooltiles_19: 1068615450
+      celianna_schooltiles_36: -72565336
+      celianna_schooltiles_121: 473314074
+      celianna_schooltiles_26: 821346900
+      celianna_schooltiles_63: 1544386389
+      celianna_schooltiles_59: -689641216
+      celianna_schooltiles_65: -800775351
+      celianna_schooltiles_64: -458375829
+      celianna_schooltiles_46: 534276815
+      celianna_schooltiles_31: -1505406597
+      celianna_schooltiles_90: -1533658047
+      celianna_schooltiles_124: -2088186529
+      celianna_schooltiles_95: 2065493707
+      celianna_schooltiles_28: 1903370734
+      celianna_schooltiles_115: 1602467514
+      celianna_schooltiles_33: 1735387515
+      celianna_schooltiles_21: 812756928
+      celianna_schooltiles_74: 966814560
+      celianna_schooltiles_78: -508122051
+      celianna_schooltiles_106: -1219895026
+      celianna_schooltiles_120: 1388177828
+      celianna_schooltiles_76: 203845934
+      celianna_schooltiles_73: -1460193760
+      celianna_schooltiles_5: -1388680516
+      celianna_schooltiles_83: -2051464170
+      celianna_schooltiles_85: 616853186
+      celianna_schooltiles_69: 890477610
+      celianna_schooltiles_0: -1539295366
+      celianna_schooltiles_126: 2053342227
+      celianna_schooltiles_89: 1532862864
+      celianna_schooltiles_81: -246458805
+      celianna_schooltiles_119: 2047678033
+      celianna_schooltiles_35: 732238968
+      celianna_schooltiles_116: -1391909835
+      celianna_schooltiles_129: -2060420963
+      celianna_schooltiles_82: 1962728366
+      celianna_schooltiles_103: 373941452
+      celianna_schooltiles_102: 1750008660
+      celianna_schooltiles_98: 1307587857
+      celianna_schooltiles_99: 1654636687
+      celianna_schooltiles_104: 146853738
+      celianna_schooltiles_68: 836188671
+      celianna_schooltiles_18: -1812586256
+      celianna_schooltiles_9: 439652049
+      celianna_schooltiles_54: 122379299
+      celianna_schooltiles_47: -1731619073
+      celianna_schooltiles_39: 1488006689
+      celianna_schooltiles_67: -2076050490
+      celianna_schooltiles_111: -9763899
+      celianna_schooltiles_114: -90141590
+      celianna_schooltiles_112: 1867092766
+      celianna_schooltiles_15: 1147601219
+      celianna_schooltiles_45: 213175130
+      celianna_schooltiles_87: 651076026
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
